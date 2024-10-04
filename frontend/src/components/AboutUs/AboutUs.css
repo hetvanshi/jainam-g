@@ -1,0 +1,29 @@
+
+
+*{
+    margin: 0;
+    padding: 0;
+}
+.main-part{
+    width: 90%;
+    margin: 100px auto 50px auto;
+    text-align: left;
+    font-size: 23px;
+    letter-spacing: 1.5px;
+    color: #686D76;
+}
+span{
+    color: #3E7C17;
+    font-weight: 600;
+}
+
+.About-img{
+    width: 42vh;
+    float: right;
+    margin-left: 40px;
+    animation: fadeIn 6s;
+   } 
+  
+.About-img:hover{
+    animation: fadeIn 6s;
+}
